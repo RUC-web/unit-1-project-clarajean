@@ -1,0 +1,41 @@
+:root{
+  font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+:root{
+font-size: 1.1em;
+line-height: 2.2;
+}
+
+h1,h2,h3{
+  font: 700 'Lato', sans-serif;
+}
+
+h1{
+  font-size: 2.5em;
+  line-height: 1.5;
+}
+
+h2{
+  font-size: 1.6em;
+  line-height: 1.5;
+}
+
+h3{
+  font-size: 1.1em;
+  line-height: 1.5;
+}
+
+@media only screen and (min-width: 600px) {
+.viewports{
+    width: 75vw;
+  }
+
+}
+
+@media only screen and (min-width: 900px) {
+.viewports{
+    width: 50vw;
+  }
+
+}
