@@ -1,0 +1,6 @@
+Issues found:
+Incorrect font-family syntax,
+viewports class is incorrect, throws a lot off
+no color on main page body,
+menu listed multiple times in main.css
+images not floating correctly
